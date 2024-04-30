@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+  }
+  
+  .cardapio {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    display: flex;
+    align-items: center;
+    color: #f38a13;
+    margin-bottom: 20px;
+  }
+  
+  .titulo {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .titulo img {
+    margin-right: 10px;
+    max-width: 200px;
+    max-height: auto;
+  }
+
+  h1 img {
+    margin-right: 10px;
+    max-width: 50px;
+    max-height: 50px;
+  }
+  
+  h2 {
+    color: #555;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  li {
+    margin-bottom: 10px;
+  }
+
+  .preco {
+    float: right;
+    color: #777;
+  }
+  

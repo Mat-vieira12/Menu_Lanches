@@ -41,10 +41,27 @@ body {
   }
   
   h2 {
-    color: #555;
+    color: #eb050f;
     border-bottom: 1px solid #ccc;
     padding-bottom: 5px;
     margin-bottom: 15px;
+    font-size: 30px;
+  }
+
+  h5 {
+    color: #0062ad;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    font-size: 30px;
+  }
+
+  h6 {
+    color: #fc9d01;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    font-size: 30px;
   }
 
   ul {
@@ -61,3 +78,48 @@ body {
     color: #777;
   }
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
